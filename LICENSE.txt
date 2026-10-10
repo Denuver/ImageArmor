@@ -1,0 +1,4 @@
+Copyright (c) 2026 [Solstice]
+All rights reserved.
+
+No part of this software, including source code, compiled binaries, textures, models, and associated assets, may be reproduced, distributed, modified, or re-uploaded in any form or by any means without the explicit written permission of the copyright holder.
